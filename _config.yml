@@ -1,0 +1,44 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+  
+# Site settings
+title: "no. 396"
+description: > # this means to ignore newlines until "email:"
+   i pick my paragraphs.
+
+email: amy@brightandbonvivant.com
+# blog logo
+logo: "/assets/images/ag.jpg"
+# blog cover
+cover: "/assets/images/cover.jpg"
+
+name: 'amelia'
+author: 'amelia'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "http://blog.brightandbonvivant.com" # the base hostname & protocol for your site
+baseurl: /no396
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/andbonvivant
+    desc: Follow me on twitter
+
+  - icon:	facebook
+    url:	https://facebook.com/amygharst
+    desc: Connect with me facebook
+  #  share_url: https://www.facebook.com/sharer.php
+  #  share_title: ?t=
+  #  share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/ameliaghost
+    desc:	Fork me on github
+
+  - icon:	instagram
+    url:	https://instagram.com/girlcalledamos
+    desc:	Follow me on Instagram
