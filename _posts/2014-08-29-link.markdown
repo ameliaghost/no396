@@ -5,7 +5,7 @@ author: amelia
 date:   2015-06-23 14:34:25
 categories: link
 tags: featured
-image: /assets/images/IMG_4675.jpg
+image: /assets/images/IMG_4675.JPG
 permalink: skyward
 ---
 

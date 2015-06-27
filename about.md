@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+image: /assets/images/link.JPG
 ---
 
 Words are my favorite thing. Some people call me a wordsmith. I used to be a designer, but it turns out I like designing for myself more than I like reading minds. I meander. I write. I make things pretty. I make things work. My left and right brains quarrel and spat.

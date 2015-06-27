@@ -11,11 +11,11 @@ email: amy@brightandbonvivant.com
 # blog logo
 logo: "/assets/images/ag.jpg"
 # blog cover
-cover: "/assets/images/cover.jpg"
+cover: "/assets/images/cover.JPG"
 
 name: 'amelia'
 author: 'amelia'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/author.JPG"
 
 paginate:	5
 
