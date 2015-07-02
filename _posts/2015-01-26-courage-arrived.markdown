@@ -4,7 +4,6 @@ title:  "courage arrived all bottled up that night"
 author: amelia
 date:   2015-01-26 9:30:00
 categories: life, love, us
-tags: featured
 image: /assets/images/peace_goggles.jpg
 permalink: courage-arrived
 ---
