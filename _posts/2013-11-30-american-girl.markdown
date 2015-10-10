@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "american girl: and the pursuit of being loved"
+title:  "and the pursuit of being loved"
 author: amelia
-date:   2015-08-27 14:34:25
+date:   2013-11-30 14:34:25
 categories: life
 image: /assets/images/AmericanGirl.jpg
 permalink: pursuit-of-being-loved
