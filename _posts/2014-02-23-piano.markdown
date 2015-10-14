@@ -8,7 +8,11 @@ image: /assets/images/keys.jpg
 permalink: piano
 ---
 
-I went to design school. Twice. Do you know what people always ask me? *“Where’d you learn to write?”*
+I went to design school. 
+
+*Twice.* 
+
+Do you know what people always ask me? *“Where’d you learn to write?”*
 
 I edit everything I read from menus to Facebook posts. Most people aren’t interested in receiving unsolicited constructive criticism, however, so I suffer their blunders in silence.
 
