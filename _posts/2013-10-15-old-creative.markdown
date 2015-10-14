@@ -10,7 +10,8 @@ permalink: old-words
 
 <span style="color:#97d700">benny</span>
 
-I talked at him for two hours that night, like a kid. He humored me all along. I know he’s busy, but I was bored and he was there, online, his little green light a beacon for my own entertainment. He wouldn't have been available if he was that bothered by me. “Elegiac is a nice word, don’t you think? Do you read classics? What’s your favorite? Or do you just read sci-fi?”
+I talked at him for two hours that night, like a kid. He humored me all along. I know he’s busy, but I was bored and he was there, online, his little green light a beacon for my own entertainment. He wouldn't have been available if he was that bothered by me. 
+“Elegiac is a nice word, don’t you think? Do you read classics? What’s your favorite? Or do you just read sci-fi?”
 
 “What, *Midwich Cuckoos* isn’t a classic?” I imagined a smirk, a twinkle in those eyes, his raised Irish inflection.
 
