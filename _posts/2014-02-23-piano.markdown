@@ -2,7 +2,7 @@
 layout: post
 title:  "i was a teenage piano teacher"
 author: amelia
-date:   2014-02-23 9:30:00
+date: 2014-02-23 9:30:00
 categories: teaching, writing
 image: /assets/images/keys.jpg
 permalink: piano
