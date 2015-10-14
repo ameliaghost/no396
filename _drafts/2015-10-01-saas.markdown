@@ -1,0 +1,121 @@
+---
+layout: post
+title:  "it's a SaaS life"
+author: amelia
+date: 2015-10-01 9:30:00
+categories: teaching, writing
+image: /assets/images/keys.jpg
+permalink: saas
+---
+
+One part of my job is to coach the people who are helping our customers. When customers come to us with questions, problems and complaints that our advisors aren't sure how to answer, they come to me for help. I could just answer the customer myself, but the goal is to train the advisor in a way that they become familiar with these outlier topics and can handle them from future customers without needing my help.
+
+One way I do this is to write very informally to the advisors. This prevents them from copying and pasting my answers directly to the customer (if they have to re-write it in their own words, they learn it), and it helps bring their anxiety back down when they're dealing with an unhappy customer or a difficult subject where they lack confidence. It also makes them feel more comfortable approaching me and fosters an environment where they can start conversations and ask questions that we all learn from.
+
+I also answer each question thoroughly while remaining as concise as possible. I have a couple hundred advisors under me. When they ask a question, I want them to understand the answer so they don't need to ask it again.
+
+Some actual examples of my responses to advisors:
+
+**1: Customer wanted to host his [already designed] website with us, and my advisor wasn't familiar with FTP and other terms the customer was using.**
+
+So basically #nah. But let me break it down for ya.
+
+First, the FTP option is how you would upload the different files for a site to a server - that would be the code for each page, the files themselves (that the code calls for), etc. Since we're a template CMS, this just doesn't jive with how we design sites. You have to design a site using one of our templates and base it around the abilities and limits of the template you chose. It's not possible to upload a website that was built or designed elsewhere into our platform.
+
+The customer is also asking if instead he can drop code in - this also wouldn't work because the code they have that they would want to drop in would be the complete code for a page (or a site), while they already have pages here with us that we have provided for them (that is, the template). They have to start with our framework and any code they might want to add as they go would need to change or override certain elements that are built in here. Does that make sense? Circle one: yes  |  no
+
+As for registering as a developer with us - they may find this the most useful if they want to really customize their site, but it still won't work for their purpose of uploading a website to our platform. With this option, they would download our template files and customize them, then add them back in again, including content, but at the end of the day, they're still just working with our platform and not trying to upload a completely separate website that they built/designed/coded elsewhere.
+
+If they want to use a site they've already designed and have the code for, then they need to use a web hosting service such as GoDaddy or Hostmonster where they can actually upload and host their site's files and code.
+
+Time for a metaphor! We sell Hummers *(I know, right?)* and a customer comes to us and says, "But I have this Corvette. How do I make your Hummer be my Corvette?" Well, you can't. We sell *Hummers*. You can customize your Hummer with us, you can change the interior and the exterior, you can repaint it and add bumper stickers and give it a nice new radio with an RSS feed, but your Hummer can't ever be a Corvette. If you already have a Corvette, then you need to go to GoDaddy who has a parking lot designed for you to put your Corvette in it.
+
+Yeah? :)
+
+**2: Customer was upset and accusing us of not being trained on an issue that had nothing to do with our platform. My advisor was stressed out by the customer's attitude and wasn't sure how to respond as this ticket had gotten complicated and confusing.**
+
+
+Turns out the advice [previous advisor] gave is spot on, and here is a blog post from Creative Commons explaining *how* to get robots (Google, etc.) and humans to find CC images:
+
+http://creativecommons.org/weblog/entry/15768
+
+As [previous advisor] said, the customer will have to fill out this page:
+
+http://creativecommons.org/choose/
+
+And then add the code generated from it on the page near his images. Google will then read that code and be all like, “Yo, we got some free for commercial use images all up in here. Let me display that in my filtered search results.”
+
+Boom. That’s it. Really. It’s that simple, despite how complicated this ticket has gotten. :)
+
+If the customer wants it to be for specific images on a page, he can follow the link in the comments on that blog:
+
+http://www.w3.org/Submission/ccREL/#SECTION00071100000000000000
+
+However, as you know, we don’t support custom code. So you can reiterate what [previous advisor] said, provide that blog post and the instructions (again), and then let the customer know that it isn’t that we aren’t trained, it’s that we *don’t help* with adding code. If he needs more help he has to go elsewhere to get it (like Creative Commons or Google or some forums.)
+
+However! To help turn his attitude around, what we *can* do to help is to suggest that he use the code next to each image rather than putting that code in the header of his site - since his complaint was that the code is showing up at the top of the page rather than with the images themselves.
+
+The only other thing I would say for you to advise him about is that he needs to be aware that it takes Google time to find and index content. This isn't an immediate turn around, but I suspect he thinks it should be and may be why he's so upset - he isn't finding his images in Google yet despite having that code all over his site.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subject: moronic domain verification
+I need a supervisor to override the idiotic domain verification for our account on domain juicesupply.com. I just moved domains to our production account to launch our site and your stupid idiotic verification garbage takes forever. If our site is down another hour from moving a domain between squarespace accounts I am done with you. We will cancel every single account we have with you. You are not the only game in town. This is beyond unacceptable.
+
+
+Opportunity to educate.
+
+First, look at their history. If they’re upset, they may have written in about it before. They may have open tickets with us on the same topic. They may have already received a response and you don’t want to send them another that can add to their anger or confusion if what you say at all in any way can be perceived by the customer as contradictory to what the other advisor said.
+
+Second, break it down. Is the customer wrong? Confused? Justified? Is the customer just impatient and can he fix his own problems with our guidance, or does he legitimately need our help to fix his problems?
+
+I need a supervisor to override the idiotic domain verification for our account
+Nope. Ignore the request for a supervisor; this is his first contact, there’s no reason to immediately demand a supervisor. Own the ticket, be confident, educate the customer, and resolve the situation. 
+
+your stupid idiotic verification garbage takes forever
+He’s frustrated out of confusion. Verification protects their domain name from anyone else trying to link it, whether intentionally or not. It’s a security feature put in place for their own sake and to make certain that nobody else links their domain name and tries to set up a custom email address on it. We can’t tell them this. But we can tell them that verification, in all cases, is a security measure to protect their property. This is also a good opportunity to inform him that the reason it takes time for DNS settings to propagate is because they need to reach all the necessary servers worldwide. This has nothing to do with Squarespace and everything to do with technology. Every opportunity is an educational opportunity. This is nobody’s fault, though the customer is trying to blame us. This is a modern marvel and we’re lucky that it *only* takes up to 24 hours.
+
+I can assume that he probably just hadn’t clicked on the “verify ownership” button in his domains panel, however. 
+
+If our site is down another hour
+Was his site ever down? No. Good opportunity to educate him now on the difference between his website and his domain name. If he moves forward assuming his third party domain name issues are our fault, then he will come back later with more misguided anger and the assumption that we suck. I chose not to address this particular point with this customer, but it’s a case by case basis. (Hannah’s example.)
+
+I am done with you. We will cancel every single account we have with you. You are not the only game in town. 
+Empty threats. Don’t be afraid of these. He’s obviously upset and just slinging anything to stir action, but all the action is on him. We have to teach him to take control of his own accounts. Worst case scenario, he takes his game to someone else in town and we really won’t miss his attitude. 
+
+This is beyond unacceptable.
+This is not our fault, and is standard procedure and waiting time with technology. Period.
+
+
+Hi Nick,
+
+I apologize for the inconvenience this was for you. I just checked on juicesupply.com and saw that the verification has already gone through. To clarify, the reason we do this is for security purposes, to prevent someone who doesn't own your domain name from linking it to another site. Also, the reason it can take up to 24 hours to go through is simply a matter of how long it takes the propagation process to reach all the servers worldwide. There is no way to speed this up. Usually it goes through pretty quickly, but occasionally it takes awhile.
+
+While checking on your records, I noticed you don't currently have any A Records. You'll want to make sure to set those up so your naked domain (juicesupply.com - without the www) works. You'll need four of them where the host name is @ and they point to these IP addresses:
+
+198.185.159.144
+198.185.159.145
+198.49.23.144
+198.49.23.145
+
+Please let me know if you have any questions about this, and I'll be happy to help you out.
+
+No exclamation points or smileys. No excessive apologies (because we didn’t do anything wrong.) No links to help guides. Nothing at all that could be confusing. I just stated it firmly, simply and politely, then let him know we’re here if he needs any more help. Period. We get to be the cool headed, calm person while they are having an adult sized temper tantrum. Which is kind of awesome.
+
+Checked back a few days later - no response, no rating, but his A Records were mapped perfectly. And he didn’t take his business to another game in town.
+
+
+

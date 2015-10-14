@@ -8,10 +8,9 @@ image: /assets/images/unnamed.jpg
 permalink: sweetheart
 ---
 
-
 Every screen erupted with the exciting, unexpected news. 
 
-I sat alone in a coffee shop in North Portland, condensation heavy on the windows, the churning sound of the barista fixing other peoples’ espressos and the melody of a sad musician playing softly over the scrapes, taps and scratches of the few customers seated comfortably around the room while each new article was released from media hubs around the world. The New York Times, Gizmodo, TechCrunch, Reuters, 
+I sat alone in a coffee shop in NoPo, condensation heavy on the windows, the churning sound from the barista fixing other peoples’ espressos and the melody of a sad musician playing softly over the scrapes, taps and scratches of the few customers seated comfortably around the room while each new article was released from media hubs around the world. The New York Times, Gizmodo, TechCrunch, Reuters, 
 
 *(the Reuters guy — I recognized his name immediately. “I know that guy.” Jacob said to me once as we fixed tea in the kitchen while listening to the news. “Oh? How do you know him?” “He wrote about me once, a few years ago.” “Oh, huh.”)*
 
