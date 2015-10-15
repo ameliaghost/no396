@@ -8,8 +8,6 @@ image: /assets/images/shoes.jpg
 permalink: old-words
 ---
 
-&nbsp;
-
 <span style="color:#97d700">loving you in a-minor</span>
 
 "This is the most I've corresponded in a very long time," he said to her.
@@ -20,7 +18,7 @@ permalink: old-words
 
 *They had already known each other for months, but somehow, this night, they truly met.*
 
-"...which is ironic, as I'm as rebellious as they come." She always had a way of talking about serious matters in an offhanded, nonchalant way.
+"...which is ironic, as I'm as rebellious as they come." She always had a way of talking about serious matters that was offhanded and nonchalant.
 
 "I really, really want you to be." 
 
