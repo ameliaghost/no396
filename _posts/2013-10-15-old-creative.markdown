@@ -16,9 +16,9 @@ permalink: words
 
 He kept talking but I wasn't hearing him anymore. I was hearing what he had already said. *I think your mom is dead. I think your mom is dead. I think your mom is...*
 
-"Oh no!" Who says that? I said that. Those were, in fact, my first words. I gave up struggling with the quilt and instead rolled my body out of the bed, hit the floor with a thud, stood, the quilt falling to my feet, and ran past my dad, down the hallway, not minding the seven stairs and into the living room where she was.
+"Oh no!" Who says that? I said that. Those were, in fact, my first words. I gave up struggling with the quilt and instead rolled my body out of the bed, hit the floor with a thud, stood, the quilt falling to my feet, and ran past my dad, down the hallway, not minding the seven stairs, and into the living room where she was.
 
-*Dead.*
+Dead.
 
 
 &nbsp;
