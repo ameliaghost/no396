@@ -24,7 +24,7 @@ I’m thinking of finding a bar I like in Ballard and going there, alone, and si
 
 I’m thinking of calling that charming Irishman on the Eastside and asking just exactly what it is he’s doing with all my things that he won’t return to me.
 
-I’m thinking of finally taking that first aid class I’ve been wanting to take for two months.
+I’m thinking of finally taking that first aid class I’ve been wanting to take.
 
 I’m thinking of movement, any kind of movement, forward motion. Brownian.
 

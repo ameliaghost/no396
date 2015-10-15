@@ -8,16 +8,62 @@ image: /assets/images/shoes.jpg
 permalink: old-words
 ---
 
-<span style="color:#97d700">benny</span>
+&nbsp;
 
-I talked at him for two hours that night, like a kid. He humored me all along. I know he’s busy, but I was bored and he was there, online, his little green light a beacon for my own entertainment. He wouldn't have been available if he was that bothered by me. 
-“Elegiac is a nice word, don’t you think? Do you read classics? What’s your favorite? Or do you just read sci-fi?”
+<span style="color:#97d700">loving you in a-minor</span>
 
-“What, *Midwich Cuckoos* isn’t a classic?” I imagined a smirk, a twinkle in those eyes, his raised Irish inflection.
+"This is the most I've corresponded in a very long time," he said to her.
 
-“Lemme check. Mmmm. Questionable, but perhaps. This book cover needs to be burned and never seen again. I’ll say yes in a Ray Bradbury sense; it’s a classic. You win this round.”
+"You should correspond more," her words were lazy but thoughtful. "It's human in an inhuman world."
 
-“Alright fine. Put your black dress on. Wear heels. We're going out.”
+"I can only manage it with a very rare breed. You'd have to be around all the time, and I'm sure I'd be imposing on your time."
+
+*They had already known each other for months, but somehow, this night, they truly met.*
+
+"...which is ironic, as I'm as rebellious as they come." She always had a way of talking about serious matters in an offhanded, nonchalant way.
+
+"I really, really want you to be." 
+
+His response stopped her. Made her think about her next words.
+
+"It's a quiet rebellion. Most people aren't worth the energy."
+
+"You're right, and your rebellions are worth their weight in gold. I get that sense. Strongly."
+
+"I suppose I can pack away the nagging thought that you're someone I grew up with."
+
+"How do you know?"
+
+"He was younger than me, by a year or so. And he grew up in Kansas too. You would be a fantastic liar if you were him."
+
+"I'm two months older than you. We didn't grow up together. And I'm glad because I could never have appreciated the bloom of this intrigue as a younger man."
+
+"You tease me."
+
+"I assure you."
+
+"I am speechless."
+
+"But surely not wordless."
+
+"Never. Impossible."
+
+"Yes. We're playing the game."
+
+"I always win."
+
+"Hm. Isn't it pretty to think so."
+
+"Filthy gorgeous."
+
+"We're well suited. We might do dangerous things together, you and I."
+
+&nbsp;
+
+<span style="color:#97d700">mercurial</span>
+
+mercurial, the fiend within that marauds your heavy soul. of hope and dreams, fragilities, tattered, you've lost control. feelings lost, despair fights forth and gambles with these days. each moment's burden, empty dark, betrayal, self malaise. the thief steals, the earth reels, your blood crawls, your heart kneels. come a cure, mercurial.
+
 
 &nbsp;
 
@@ -112,11 +158,36 @@ We’re all a little crazy. Some of us better at it than others.
 
 A
 
+
+&nbsp;
+
+<span style="color:#97d700">american girl</span>
+
+Life is a project.
+
+I’m thinking of becoming an alcoholic. Or a smoker. (No, I’m not.)
+
+I’m thinking of getting a retail job just so I can meet people and smile at them and listen to their boring stories, which are actually kind of fascinating.
+
+I’m thinking of reading all those David Mitchell books that have been sitting on my shelf for years.
+
+I’m thinking of calling that charming Irishman on the Eastside and asking just exactly what it is he’s doing with all my things that he won’t return to me.
+
+I’m thinking of movement, any kind of movement, forward motion. Brownian.
+
 &nbsp;
 
 <span style="color:#97d700">truth</span>
 
 I consider heartbroken a success. Maybe not a triumphant one, but one that proves I’ve lived.
+
+
+&nbsp;
+
+<span style="color:#97d700">the fall</span>
+
+
+Every time she gets quiet, every time she closes her eyes, my heart snags and a quick and trembling fear sets in saying *she died.* I check on her. I make sure she’s breathing. I look to see that her chest is moving. Of course she’s breathing. She isn’t just going to stop breathing one moment and peacefully be gone. Cancer takes awhile. It won't be peaceful. But it isn’t an irrational fear.
 
 
 &nbsp;
@@ -128,10 +199,41 @@ Devastation isn’t such a bad thing. It’s winter. It’s after winter when th
 
 &nbsp;
 
+<span style="color:#97d700">amelia's adventures in wonderland</span>
+
+It was a nice night, a necessary segue back into the land of the living and breathing and moving. Back up the rabbit hole after an October wrought with emotions revolving around the looming, impending, terrifying, soul-crushing death of her very favorite and only mother. The cancer is so calm, the eye of the storm, and everything swirling around it is chaos, confused and broken. Her thoughts and emotions are heightened and untrustworthy.
+
+&nbsp;
+
 <span style="color:#97d700">love & loss</span>
 
 Yesterday I sat on Love for the first time, and I realized why it is I always choose to sit on Loss. Loss is easy. Love is a little uncomfortable and covered in bird feces.
 
+
+&nbsp;
+
+<span style="color:#97d700">interlude</span>
+
+“You don’t do drama,” She said. “But your emotions run deep.”
+
+“They do.”
+
+“When I was talking to you the other night about your mom, your words were saying one thing but your eyes were saying another. You’re losing someone you love and you’re looking for a replacement. When your mom dies, who do you have? You’re losing love."
+
+“I guess, but it isn’t because my mom is dying. That desire has always been there. It’s just a little bit louder this year.”
+
+“Dude, your decibel level is as loud as mine lately.” She is the loudest person I know. When she laughs in the midwest, I can almost hear it in the Pacific Northwest. She told me once she laughed so loud Andrew Bird looked up from what he was doing.
+
+“Maybe it’s loud because I feel like I’m getting close.”
+
+“I hope so.”
+
+
+&nbsp;
+
+<span style="color:#97d700">bang bang</span>
+
+I half expect him to text me because it’s been 23 hours since we last talked. He’s not texting me. I’m banking my hopes and emotions on the wrong half of things today. But maybe I don’t want him to text me. What have I got to say? Nothing. Nothing new under this here Seattle sun.
 
 &nbsp;
 
@@ -140,3 +242,17 @@ Yesterday I sat on Love for the first time, and I realized why it is I always ch
 I went in feeling somewhere around seventy percent, and after an hour on his table, I walked away at ninety. Not only did I physically feel better, but for the first time in days, I felt like my body was mine again.
 
 After going through what I went through, after being so clearly aware of losing my physical self, it had been a terrible struggle to feel “whole” again, to feel grounded, but with his help, I felt like me. I felt settled. I felt normal, even. I felt good. I hurt still; my ribs were sore, my back was sore, my chest was sore, my throat was sore, every breath had a wheeze and a rattle, my head had been pounding for days, but I felt good. I felt my body repairing itself. He gave me reason to trust in my body, to have faith in my body, to revel in the wonder that is my body, that after what it went through, it was fixing itself, it was protecting me, it was strong, it was me.
+
+
+&nbsp;
+
+<span style="color:#97d700">benny</span>
+
+I talked at him for two hours that night, like a kid. He humored me all along. I know he’s busy, but I was bored and he was there, online, his little green light a beacon for my own entertainment. He wouldn't have been available if he was that bothered by me. 
+“Elegiac is a nice word, don’t you think? Do you read classics? What’s your favorite? Or do you just read sci-fi?”
+
+“What, *Midwich Cuckoos* isn’t a classic?” I imagined a smirk, a twinkle in those eyes, his raised Irish inflection.
+
+“Lemme check. Mmmm. Questionable, but perhaps. This book cover needs to be burned and never seen again. I’ll say yes in a Ray Bradbury sense; it’s a classic. You win this round.”
+
+“Alright fine. Put your black dress on. Wear heels. We're going out.”
