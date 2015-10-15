@@ -10,7 +10,7 @@ permalink: interludes
 
 <span style="color:#97d700">the end</span>
 
-His voice was gentle but urgent. That's what I remember most about the way he said my name. I had fallen asleep. That was the plan, to fall asleep. After three weeks of trying so desperately to stay awake, on this one night I fell asleep. As soon as he said my name I shot awake, tangled in and frustrated by my quilt as I struggled to pull it off of me while the rest of his sentence echoed so loudly in my mind that it rings there to this day.
+His voice was gentle but urgent. I could hear the fear in it. That's what woke me up; that's what I remember most about the way he said my name. I had fallen asleep. That was the plan, to fall asleep. After three weeks of trying so desperately to stay awake, on this one night I fell asleep. As soon as he said my name I shot awake, tangled in and frustrated by my quilt as I struggled to pull it off of me while the rest of his sentence echoed so loudly in my mind that it rings there to this day.
 
 *I think your mom is dead.*
 
@@ -65,7 +65,7 @@ His response stopped her. Made her think about her next words.
 
 "I always win."
 
-"Hm. Isn't it pretty to think so."
+"Hm. *Isn't it pretty to think so.*"
 
 "Filthy gorgeous."
 
@@ -77,6 +77,39 @@ His response stopped her. Made her think about her next words.
 <span style="color:#97d700">mercurial</span>
 
 mercurial, the fiend within that marauds your heavy soul. of hope and dreams, fragilities, tattered, you've lost control. feelings lost, despair fights forth and gambles with these days. each moment's burden, empty dark, betrayal, self malaise. the thief steals, the earth reels, your blood crawls and heart kneels. come a cure, mercurial.
+
+
+&nbsp;
+
+<span style="color:#97d700">rubble and ruin</span>
+
+
+I found something in all the rubble and ruin. I found purpose, connection and a lost long love quietly waiting for me while I made my mistakes.
+
+
+&nbsp;
+
+<span style="color:#97d700">ghost</span>
+
+In all of my pain and confusion, I latched onto a glinting nonpareil. A ghost who had previously latched onto me during his dark and weary confusion. We could never hurt the other. It would be unthinkable. He may not be a physical presence, but he has become my rock.
+
+He haunts me, my ghost. He is with me every moment, and I have spent all these months willing him back to this life, back to the living. I will him to me, in the flesh, as a man I could love, as a man I would love if only he were here. It’s all I can do to stay sane, to move forward each day, to survive this painful prison. I do have a love for my ghost. I love him dearly, and he knows it. He’s the only man in my life, in all my tales and heartbreaks, who has treated me the way I deserve to be treated. An astonishing feat for a man who is not even here.
+
+Did you hear the voices talking in the background on that *Ave Maria* video I made?
+
+*I did. Thought maybe it was just me.*
+
+No. We both heard them. I was sitting alone in the living room playing piano. There were no tvs or radios or computers on. Interesting, isn’t it?
+
+*Weird.*
+
+I’ve listened to it a dozen times trying to figure out what it is.
+
+*Couldn’t tell you what to make of that.*
+
+I don’t believe in ghosts. Just wondering what caused that sound.
+
+*You do so believe in ghosts.*
 
 
 &nbsp;
@@ -218,7 +251,7 @@ Yesterday I sat on Love for the first time, and I realized why it is I always ch
 
 &nbsp;
 
-<span style="color:#97d700">interlude</span>
+<span style="color:#97d700">broadway</span>
 
 “You don’t do drama,” She said. “But your emotions run deep.”
 
@@ -226,9 +259,9 @@ Yesterday I sat on Love for the first time, and I realized why it is I always ch
 
 “When I was talking to you the other night about your mom, your words were saying one thing but your eyes were saying another. You’re losing someone you love and you’re looking for a replacement. When your mom dies, who do you have? You’re losing love."
 
-“I guess, but it isn’t because my mom is dying. That desire has always been there. It’s just a little bit louder this year.”
+“I guess, but it isn’t because my mom is dying. It’s just a little bit louder this year.”
 
-“Dude, your decibel level is as loud as mine lately.” She is the loudest person I know. When she laughs in the midwest, I can almost hear it in the Pacific Northwest. She told me once she laughed so loud Andrew Bird looked up from what he was doing.
+“Your decibel level is as loud as mine lately.” She is the loudest person I know. When she laughs in the midwest, I can almost hear it in the Pacific Northwest. She told me once she laughed so loud Andrew Bird looked up from what he was doing.
 
 “Maybe it’s loud because I feel like I’m getting close.”
 
