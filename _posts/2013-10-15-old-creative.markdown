@@ -2,7 +2,7 @@
 layout: post
 title:  "words"
 author: amelia
-date: 2014-08-05 7:30:00
+date: 2015-08-05 7:30:00
 categories: lifes
 image: /assets/images/shoes.jpg
 permalink: words
