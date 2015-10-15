@@ -4,7 +4,7 @@ title:  "breakup startup sweetheart"
 author: amelia
 date: 2013-12-14 9:30:00
 categories: life
-image: /assets/images/unnamed.jpg
+image: /assets/images/AmericanGirl.jpg
 permalink: sweetheart
 ---
 
