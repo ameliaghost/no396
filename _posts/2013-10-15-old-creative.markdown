@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "old words"
+title:  "words"
 author: amelia
-date: 2013-08-05 7:30:00
+date: 2014-08-05 7:30:00
 categories: lifes
 image: /assets/images/shoes.jpg
-permalink: old-words
+permalink: words
 ---
 
 <span style="color:#97d700">loving you in a-minor</span>
@@ -70,7 +70,7 @@ mercurial, the fiend within that marauds your heavy soul. of hope and dreams, fr
 
 It's going to feel more real when I hand my keys over and realize I have nothing to replace them.
 
-It feels more real when he stands above me, puts his hands on each of my ears, leans down and kisses my forehead sweetly through the dirty strands of my unkempt morning hair.
+It feels more real when he stands above me, puts his hands on each of my ears, leans down and kisses my forehead through the dirty strands of my unkempt morning hair.
 
 &nbsp;
 
@@ -251,6 +251,6 @@ I talked at him for two hours that night, like a kid. He humored me all along. I
 
 “What, *Midwich Cuckoos* isn’t a classic?” I imagined a smirk, a twinkle in those eyes, his raised Irish inflection.
 
-“Lemme check. Mmmm. Questionable, but perhaps. This book cover needs to be burned and never seen again. I’ll say yes in a Ray Bradbury sense; it’s a classic. You win this round.”
+“Lemme check. Mmmm. Questionable, but perhaps. I’ll say yes in a Ray Bradbury sense; it’s a classic. You win this round.”
 
 “Alright fine. Put your black dress on. Wear heels. We're going out.”
