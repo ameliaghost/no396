@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "words"
+title:  "interludes"
 author: amelia
 date: 2015-08-05 7:30:00
-categories: lifes
+categories: life, love, loss, words
 image: /assets/images/shoes.jpg
-permalink: words
+permalink: interludes
 ---
 
 <span style="color:#97d700">the end</span>
@@ -71,11 +71,12 @@ His response stopped her. Made her think about her next words.
 
 "We're well suited. We might do dangerous things together, you and I."
 
+
 &nbsp;
 
 <span style="color:#97d700">mercurial</span>
 
-mercurial, the fiend within that marauds your heavy soul. of hope and dreams, fragilities, tattered, you've lost control. feelings lost, despair fights forth and gambles with these days. each moment's burden, empty dark, betrayal, self malaise. the thief steals, the earth reels, your blood crawls, your heart kneels. come a cure, mercurial.
+mercurial, the fiend within that marauds your heavy soul. of hope and dreams, fragilities, tattered, you've lost control. feelings lost, despair fights forth and gambles with these days. each moment's burden, empty dark, betrayal, self malaise. the thief steals, the earth reels, your blood crawls and heart kneels. come a cure, mercurial.
 
 
 &nbsp;
@@ -87,6 +88,7 @@ It's going to feel more real when I hand my keys over and realize I have nothing
 
 It feels more real when he stands above me, puts his hands on each of my ears, leans down and kisses my forehead through the dirty strands of my unkempt morning hair.
 
+
 &nbsp;
 
 <span style="color:#97d700">last tea</span>
@@ -95,21 +97,6 @@ We got together one last time for tea before my move. As we hugged and said our 
 
 You know we will.
 
-&nbsp;
-
-<span style="color:#97d700">it's starting to come back to me</span>
-
-were the chickens in *Eraserhead* alive?<br>
-were they alive on the plates?
-
-*ish*<br>
-*they were moving*
-
-I woke up in the middle of the night a couple nights ago, complete sudden wide awake sit up in bed and said, "shit, were they alive?"
-
-*heh*
-
-then I fell back asleep
 
 &nbsp;
 
@@ -119,17 +106,20 @@ He smoked the last cigarette then fled to LA to detox. "Just for a few days," he
 
 I drove back to his place, alone, where the cats greeted me with their sad cries. I shouldn't have bought him that pack of American Spirit.
 
+
 &nbsp;
 
 <span style="color:#97d700">tertiary need</span>
 
 He detoxed. He came back. He relapsed as he smoked into the new year. That swirl in the air and burn in my body.
 
+
 &nbsp;
 
 <span style="color:#97d700">delta</span>
 
 But the thing of it was, as we were exiting the plane, she stood up there and actually said “bye-bye” to the air between each passenger.
+
 
 &nbsp;
 
@@ -161,6 +151,7 @@ He chopped a few vegetables, let the silence roll between us for an appropriate 
 
 "Lots."
 
+
 &nbsp;
 
 <span style="color:#97d700">letters, part i</span>
@@ -187,6 +178,7 @@ I’m thinking of reading all those David Mitchell books that have been sitting 
 I’m thinking of calling that charming Irishman on the Eastside and asking just exactly what it is he’s doing with all my things that he won’t return to me.
 
 I’m thinking of movement, any kind of movement, forward motion. Brownian.
+
 
 &nbsp;
 
@@ -215,6 +207,7 @@ Devastation isn’t such a bad thing. It’s winter. It’s after winter when th
 <span style="color:#97d700">amelia's adventures in wonderland</span>
 
 It was a nice night, a necessary segue back into the land of the living and breathing and moving. Back up the rabbit hole after an October wrought with emotions revolving around the looming, impending, terrifying, soul-crushing death of her very favorite and only mother. The cancer is so calm, the eye of the storm, and everything swirling around it is chaos, confused and broken. Her thoughts and emotions are heightened and untrustworthy.
+
 
 &nbsp;
 
@@ -247,6 +240,7 @@ Yesterday I sat on Love for the first time, and I realized why it is I always ch
 <span style="color:#97d700">bang bang</span>
 
 I half expect him to text me because it’s been 23 hours since we last talked. He’s not texting me. I’m banking my hopes and emotions on the wrong half of things today. But maybe I don’t want him to text me. What have I got to say? Nothing. Nothing new under this here Seattle sun.
+
 
 &nbsp;
 
