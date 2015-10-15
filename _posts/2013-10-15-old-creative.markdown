@@ -10,13 +10,13 @@ permalink: interludes
 
 <span style="color:#97d700">the end</span>
 
-His voice was gentle but urgent. That's what I remember most about the way he said my name. I had fallen asleep. That was the plan, to fall asleep. After three weeks of trying so desperately to stay awake, on this one night I fell asleep. As soon as he said my name I shot awake, tangled in and frustrated by my quilt as I struggled to pull it off of me while the rest of his sentence echoed so loudly in my mind that it still rings there.
+His voice was gentle but urgent. That's what I remember most about the way he said my name. I had fallen asleep. That was the plan, to fall asleep. After three weeks of trying so desperately to stay awake, on this one night I fell asleep. As soon as he said my name I shot awake, tangled in and frustrated by my quilt as I struggled to pull it off of me while the rest of his sentence echoed so loudly in my mind that it rings there to this day.
 
 *I think your mom is dead.*
 
 He kept talking but I wasn't hearing him anymore. I was hearing what he had already said. *I think your mom is dead. I think your mom is dead. I think your mom is...*
 
-"No!" I gave up struggling with the quilt and instead rolled my body out of the bed, hit the floor with a thud and a knock to my knees, stood, the quilt falling to my feet, and ran past my dad, down the hallway, not minding the seven stairs, and into the living room where she was
+*"No!"* My cry came from deep within as I gave up struggling with the quilt and instead rolled my body out of the bed, hit the floor with a thud and a knock to my knees, stood, the quilt falling to my feet, and ran past my dad, down the hallway, not minding the seven stairs, and into the living room where she was
 
 dead.
 
