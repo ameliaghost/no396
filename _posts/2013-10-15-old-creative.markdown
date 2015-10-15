@@ -10,15 +10,15 @@ permalink: interludes
 
 <span style="color:#97d700">the end</span>
 
-"Amy," His voice was gentle but urgent. That's what I remember most about the way he said my name. I had fallen asleep. That was the plan, to fall asleep. After three weeks of trying so desperately to stay awake, on this one night I fell asleep. As soon as he said my name I shot awake, tangled in and frustrated by my quilt as I struggled to pull it off of me while the rest of his sentence echoed so loudly in my mind that it still rings there.
+His voice was gentle but urgent. That's what I remember most about the way he said my name. I had fallen asleep. That was the plan, to fall asleep. After three weeks of trying so desperately to stay awake, on this one night I fell asleep. As soon as he said my name I shot awake, tangled in and frustrated by my quilt as I struggled to pull it off of me while the rest of his sentence echoed so loudly in my mind that it still rings there.
 
 *I think your mom is dead.*
 
 He kept talking but I wasn't hearing him anymore. I was hearing what he had already said. *I think your mom is dead. I think your mom is dead. I think your mom is...*
 
-"Oh no!" Who says that? I said that. Those were, in fact, my first words. I gave up struggling with the quilt and instead rolled my body out of the bed, hit the floor with a thud, stood, the quilt falling to my feet, and ran past my dad, down the hallway, not minding the seven stairs, and into the living room where she was.
+"No!" I gave up struggling with the quilt and instead rolled my body out of the bed, hit the floor with a thud and a knock to my knees, stood, the quilt falling to my feet, and ran past my dad, down the hallway, not minding the seven stairs, and into the living room where she was
 
-Dead.
+dead.
 
 
 &nbsp;
@@ -253,9 +253,9 @@ After going through what I went through, after being so clearly aware of losing 
 
 &nbsp;
 
-<span style="color:#97d700">benny</span>
+<span style="color:#97d700">irish</span>
 
-I talked at him for two hours that night, like a kid. He humored me all along. I know he’s busy, but I was bored and he was there, online, his little green light a beacon for my own entertainment. He wouldn't have been available if he was that bothered by me. 
+I talked at him for two hours that night, like a kid. He humored me all along. I knew he was busy, but I was bored and he was there, online, his little green light a beacon for my own entertainment. He wouldn't have been available if he was that bothered by me. 
 “Elegiac is a nice word, don’t you think? Do you read classics? What’s your favorite? Or do you just read sci-fi?”
 
 “What, *Midwich Cuckoos* isn’t a classic?” I imagined a smirk, a twinkle in those eyes, his raised Irish inflection.
