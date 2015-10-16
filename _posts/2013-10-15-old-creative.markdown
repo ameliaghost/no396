@@ -16,9 +16,7 @@ His voice was gentle but urgent. I could hear the fear in it. That's what woke m
 
 He kept talking but I wasn't hearing him anymore. I was hearing what he had already said. *I think your mom is dead. I think your mom is dead. I think your mom is...*
 
-*"No!"* My cry came from deep within as I gave up struggling with the quilt and instead rolled my body out of the bed, hit the floor with a thud and a knock to my knees, stood, the quilt falling to my feet, and ran past my dad, down the hallway, not minding the seven stairs, and into the living room where she was
-
-dead.
+*"No!"* My cry came from deep within as I gave up struggling with the quilt and instead rolled my body out of the bed, hit the floor with a thud and a knock to my knees, stood, the quilt falling to my feet, and ran past my dad, down the hallway, not minding the seven stairs, and into the living room where she was.
 
 
 &nbsp;
