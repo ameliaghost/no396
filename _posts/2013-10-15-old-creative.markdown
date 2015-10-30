@@ -93,19 +93,19 @@ In all of my pain and confusion, I latched onto a glinting nonpareil. A ghost wh
 
 He haunts me, my ghost. He is with me every moment, and I have spent all these months willing him back to this life, back to the living. I will him to me, in the flesh, as a man I could love, as a man I would love if only he were here. It’s all I can do to stay sane, to move forward each day, to survive this painful prison. I do have a love for my ghost. I love him dearly, and he knows it. He’s the only man in my life, in all my tales and heartbreaks, who has treated me the way I deserve to be treated. An astonishing feat for a man who is not even here.
 
-Did you hear the voices talking in the background on that *Ave Maria* video I made?
+"Did you hear the voices talking in the background on that *Ave Maria* video I made?"
 
 *I did. Thought maybe it was just me.*
 
-No. We both heard them. I was sitting alone in the living room playing piano. There were no tvs or radios or computers on. Interesting, isn’t it?
+"No. We both heard them. I was sitting alone in the living room at the piano. There were no tvs or radios or computers on. Interesting, isn’t it?"
 
 *Weird.*
 
-I’ve listened to it a dozen times trying to figure out what it is.
+"I’ve listened to it a dozen times trying to figure out what it is."
 
 *Couldn’t tell you what to make of that.*
 
-I don’t believe in ghosts. Just wondering what caused that sound.
+"I don’t believe in ghosts. Just wondering what caused that sound."
 
 *You do so believe in ghosts.*
 
