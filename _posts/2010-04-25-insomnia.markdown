@@ -10,9 +10,9 @@ permalink: insomnia
 
 Recently the oldest brother told me something in reference to a little joke I made at my own expense. He said *that happens to most everyone else. Don't let it happen to you.* You see, I had drawn up an alternate plan for my life, as follows: 
 
-A. Work.
-B. Pay off debt and start saving.
-C. Begin licensure.
+A. Work. <br/>
+B. Pay off debt and start saving.<br/>
+C. Begin licensure.<br/>
 D. Get bogged down in the daily run of life and forget dreams. 
 
 You're probably wondering what the real plan is, that being the alternate.
