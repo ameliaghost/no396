@@ -2,7 +2,7 @@
 layout: post
 title:  "interludes"
 author: amelia
-date: 2015-08-05 7:30:00
+date: 2015-10-15 7:30:00
 categories: life, love, loss, words
 image: /assets/images/shoes.jpg
 permalink: interludes
