@@ -4,7 +4,7 @@ title:  "asheville calling"
 author: amelia
 date: 2015-10-29 7:30:00
 categories: life, love, loss, words
-image: /assets/images/avl.jpg
+image: /assets/images/casa.jpg
 permalink: asheville
 ---
 

@@ -5,7 +5,7 @@ author: amelia
 date: 2010-11-25 7:30:00
 categories: life, letters, words
 image: /assets/images/max.jpg
-permalink: letters-old
+permalink: letters
 ---
 
 I admit. I've messed with our routine so much lately, I can't figure if I should be writing now or not. I wanted to tell you to have a good Thanksgiving. I imagine you're with your family and friends in Wichita. Maybe not. I guess I don't really know.
