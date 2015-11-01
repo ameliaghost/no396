@@ -4,7 +4,7 @@ title:  "insomnia"
 author: amelia
 date: 2010-04-25 7:30:00
 categories: life, letters, words
-image: /assets/images/avl.jpg
+image: /assets/images/light.JPG
 permalink: insomnia
 ---
 

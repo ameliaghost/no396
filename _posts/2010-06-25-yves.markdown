@@ -4,7 +4,7 @@ title:  "yves"
 author: amelia
 date: 2010-06-25 7:30:00
 categories: life, letters, words
-image: /assets/images/avl.jpg
+image: /assets/images/1918.JPG
 permalink: yves
 ---
 
