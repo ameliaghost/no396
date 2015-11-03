@@ -8,12 +8,16 @@ image: /assets/images/casa.jpg
 permalink: asheville
 ---
 
-While flipping through an antique book I recently bought on a whim, I came across a poem called Casabianca where poet Felicia Hemans tells the tale of a boy who wouldn't leave his post on his father's ship, though it was being destroyed in the chaos and ruin of battle all around him. He stood there eager and prepared to fight, waiting for his father to give him his orders. 
+I haven't yet learned how to write a lifetime of love and a season of agony into a few brief sentences. I've been trying for some time, to push through this block and tell the story I need to tell. There's too much emotion, too many memories, not enough time, not enough clarity, an ache too deep to yet define.
 
-*Yet beautiful and bright he stood,*<br/>
-  *As born to rule the storm;*<br/>
+It was my mother's home, you see, and so it was mine where she would always be.
 
-Those two lines, more than any other in recent memory, grabbed my emotions and pulled. Hard.
+ <font color = "2C3539">*Yet beautiful and bright he stood,<br/>
+  As born to rule the storm;*</font>
+
+Like the boy in Felicia Hemans' *Casabianca*, I stand at the safety of my post and watch the storm in this port around me. 
+
+
 
 
 <small>*Image: The Destruction of 'L'Orient' at the Battle of the Nile by George Arnald*</small>
