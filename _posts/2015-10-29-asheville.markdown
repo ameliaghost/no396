@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "asheville calling"
+title:  "--"
 author: amelia
 date: 2015-10-29 7:30:00
 categories: life, love, loss, words
@@ -15,7 +15,7 @@ It was my mother's home, you see, and so it was mine where she would always be.
 <font color="2C3539">*Yet beautiful and bright he stood,<br/>
 As born to rule the storm;*</font>
 
-Like the boy in *Casabianca*, I stand at the safety of my post and watch the storm in this port around me. 
+Like the boy in *Casabianca*, I stand at the safety of my post and watch the storm around me in what was once a safe port.
 
 
 
