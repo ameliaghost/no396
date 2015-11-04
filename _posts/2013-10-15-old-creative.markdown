@@ -16,7 +16,7 @@ His voice was gentle but urgent. I could hear the fear in it. That's what woke m
 
 He kept talking but I wasn't hearing him anymore. I was hearing what he had already said. *I think your mom is dead. I think your mom is dead. I think your mom is...*
 
-*"No!"* My cry came from deep within as I gave up struggling with the quilt and instead rolled my body out of the bed, hit the floor with a thud and a knock to my knees, stood, the quilt falling to my feet, and ran past my dad, down the hallway, not minding the seven stairs, and into the living room where she was.
+*"No!"* My cry came from deep within as I gave up struggling with the quilt and instead rolled my body out of the bed, hit the floor with a thud and a knock to my knees, stood, the quilt falling to my feet, and ran past him, down the hallway, not minding the seven stairs, and into the living room where she was.
 
 <hr>
 
@@ -28,7 +28,7 @@ He kept talking but I wasn't hearing him anymore. I was hearing what he had alre
 
 "I can only manage it with a very rare breed. You'd have to be around all the time, and I'm sure I'd be imposing on your time."
 
-*They had already known each other for months, but somehow, this night, they truly met.*
+They had already known each other for months, but somehow, this night, they truly met.
 
 "...which is ironic, as I'm as rebellious as they come." She always had a way of talking about serious matters that was offhanded and nonchalant.
 
@@ -216,7 +216,7 @@ Every time she gets quiet, every time she closes her eyes, my heart snags and a 
 
 <span style="color:#97d700">redemption</span>
 
-Devastation isn’t such a bad thing. It’s winter. It’s after winter when the snow starts to melt and there are little bulbs of purple and yellow on green, pushing through the dirty white. It’s a fire over the soil so crops grow stronger, later. It’s redemption after the long burn.
+Devastation isn’t such a bad thing. It’s winter. It’s after winter when the snow starts to melt and there are little bulbs of purple and yellow on green pushing through the dirty white. It’s a fire over the soil so crops grow stronger, later. It’s redemption after the long burn.
 
 <hr>
 

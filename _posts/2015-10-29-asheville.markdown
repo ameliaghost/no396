@@ -7,6 +7,7 @@ categories: life, love, loss, words
 image: /assets/images/casa.jpg
 permalink: asheville
 ---
+
 While flipping through an antique book I recently bought on a whim, I came across a poem that tells of a boy who wouldn't leave his post on a ship while it was being destroyed in the chaos and ruin of battle. He stood eager and prepared to fight, waiting for the captain, his father, to give him his orders. 
 
 <font color="2C3539">*Yet beautiful and bright he stood,<br/>
