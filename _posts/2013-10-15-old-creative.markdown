@@ -18,8 +18,7 @@ He kept talking but I wasn't hearing him anymore. I was hearing what he had alre
 
 *"No!"* My cry came from deep within as I gave up struggling with the quilt and instead rolled my body out of the bed, hit the floor with a thud and a knock to my knees, stood, the quilt falling to my feet, and ran past my dad, down the hallway, not minding the seven stairs, and into the living room where she was.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">loving you in a-minor</span>
 
@@ -63,29 +62,27 @@ His response stopped her. Made her think about her next words.
 
 "I always win."
 
-"Hm. *Isn't it pretty to think so.*"
+"Hm. Isn't it pretty to think so*."
 
 "Filthy gorgeous."
 
 "We're well suited. We might do dangerous things together, you and I."
 
-
-&nbsp;
+**<small>Hemingway</small>*
+<hr>
 
 <span style="color:#97d700">mercurial</span>
 
 mercurial, the fiend within that marauds your heavy soul. of hope and dreams, fragilities, tattered, you've lost control. feelings lost, despair fights forth and gambles with these days. each moment's burden, empty dark, betrayal, self malaise. the thief steals, the earth reels, your blood crawls and heart kneels. come a cure, mercurial.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">rubble and ruin</span>
 
 
 I found something in all the rubble and ruin. I found purpose, connection and a lost long love quietly waiting for me while I made my mistakes.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">ghost</span>
 
@@ -109,8 +106,7 @@ He haunts me, my ghost. He is with me every moment, and I have spent all these m
 
 *You do so believe in ghosts.*
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">real</span>
 
@@ -119,8 +115,7 @@ It's going to feel more real when I hand my keys over and realize I have nothing
 
 It feels more real when he stands above me, puts his hands on each of my ears, leans down and kisses my forehead through the dirty strands of my unkempt morning hair.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">last tea</span>
 
@@ -128,8 +123,7 @@ We got together one last time for tea before my move. As we hugged and said our 
 
 You know we will.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">pi duplicities</span>
 
@@ -137,22 +131,19 @@ He smoked the last cigarette then fled to LA to detox. "Just for a few days," he
 
 I drove back to his place, alone, where the cats greeted me with their sad cries. I shouldn't have bought him that pack of American Spirit.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">tertiary need</span>
 
 He detoxed. He came back. He relapsed as he smoked into the new year. That swirl in the air and burn in my body.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">delta</span>
 
 But the thing of it was, as we were exiting the plane, she stood up there and actually said “bye-bye” to the air between each passenger.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">the knows</span>
 
@@ -182,8 +173,7 @@ He chopped a few vegetables, let the silence roll between us for an appropriate 
 
 "Lots."
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">letters, part i</span>
 
@@ -193,8 +183,7 @@ We’re all a little crazy. Some of us better at it than others.
 
 A
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">american girl</span>
 
@@ -210,44 +199,38 @@ I’m thinking of calling that charming Irishman on the Eastside and asking just
 
 I’m thinking of movement, any kind of movement, forward motion. Brownian.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">truth</span>
 
 I consider heartbroken a success. Maybe not a triumphant one, but one that proves I’ve lived.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">the fall</span>
 
 
 Every time she gets quiet, every time she closes her eyes, my heart snags and a quick and trembling fear sets in saying *she died.* I check on her. I make sure she’s breathing. I look to see that her chest is moving. Of course she’s breathing. She isn’t just going to stop breathing one moment and peacefully be gone. Cancer takes awhile. It won't be peaceful. But it isn’t an irrational fear.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">redemption</span>
 
 Devastation isn’t such a bad thing. It’s winter. It’s after winter when the snow starts to melt and there are little bulbs of purple and yellow on green, pushing through the dirty white. It’s a fire over the soil so crops grow stronger, later. It’s redemption after the long burn.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">amelia's adventures in wonderland</span>
 
 It was a nice night, a necessary segue back into the land of the living and breathing and moving. Back up the rabbit hole after an October wrought with emotions revolving around the looming, impending, terrifying, soul-crushing death of her very favorite and only mother. The cancer is so calm, the eye of the storm, and everything swirling around it is chaos, confused and broken. Her thoughts and emotions are heightened and untrustworthy.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">love & loss</span>
 
 Yesterday I sat on Love for the first time, and I realized why it is I always choose to sit on Loss. Loss is easy. Love is a little uncomfortable and covered in bird feces.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">broadway</span>
 
@@ -265,15 +248,13 @@ Yesterday I sat on Love for the first time, and I realized why it is I always ch
 
 “I hope so.”
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">bang bang</span>
 
 I half expect him to text me because it’s been 23 hours since we last talked. He’s not texting me. I’m banking my hopes and emotions on the wrong half of things today. But maybe I don’t want him to text me. What have I got to say? Nothing. Nothing new under this here Seattle sun.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">reiki</span>
 
@@ -281,8 +262,7 @@ I went in feeling somewhere around seventy percent, and after an hour on his tab
 
 After going through what I went through, after being so clearly aware of losing my physical self, it had been a terrible struggle to feel “whole” again, to feel grounded, but with his help, I felt like me. I felt settled. I felt normal, even. I felt good. I hurt still; my ribs were sore, my back was sore, my chest was sore, my throat was sore, every breath had a wheeze and a rattle, my head had been pounding for days, but I felt good. I felt my body repairing itself. He gave me reason to trust in my body, to have faith in my body, to revel in the wonder that is my body, that after what it went through, it was fixing itself, it was protecting me, it was strong, it was me.
 
-
-&nbsp;
+<hr>
 
 <span style="color:#97d700">irish</span>
 
