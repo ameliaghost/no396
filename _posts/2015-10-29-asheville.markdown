@@ -8,7 +8,7 @@ image: /assets/images/casa.jpg
 permalink: asheville
 ---
 
-While flipping through an antique book I recently bought on a whim, I came across a poem that tells of a boy who wouldn't leave his post on a ship while it was being destroyed in the chaos and ruin of battle. He stood eager and prepared to fight, waiting for the captain, his father, to give him his orders. 
+While flipping through an antique book I recently bought on a whim, my eyes fell on two lines from a poem about a boy who wouldn't leave his post on a ship. The ship was being destroyed in the chaos and ruin of battle all around him, but he stood eager and prepared to fight, waiting for the captain, his father, to give him his orders. 
 
 <font color="2C3539">*Yet beautiful and bright he stood,<br/>
 As born to rule the storm;*</font>
@@ -17,9 +17,9 @@ The boy died.
 
 I'll give away the ending now. He called to his father several times, asking permission to leave his post and join the fight, but his father never responded because he had already been killed. 
 
-I haven't yet learned how to write a lifetime of love and a season of agony into a few brief sentences. I've been trying for some time to tell the story I need to tell, but I've learned that there's too much emotion, too many memories, not enough time or clarity and an ache too deep to yet define. It may become the story I spend the rest of my life writing, in pieces.
+I haven't yet learned how to write a lifetime of love and a season of agony into a few brief sentences. I've been trying for some time to tell the story I need to tell, but I've learned that there's too much emotion, too many memories, not enough time or clarity and an ache too deep to yet define. It may become the story I spend the rest of my life writing in the pieces as they come to me.
 
-I could easily be that young boy — aware of the destruction around me and eager to push back if only someone would give me permission. The danger isn't in the circumstances but in failing to do anything out of obedience or fear.
+I could easily be that young boy — aware of the destruction around me and eager to push back if only someone would give me permission, to validate what I know is the right course of action. Danger isn't in the circumstances but in failing to do anything out of obedience or fear.
 
 Like the boy in the poem, I stand at my post and watch the storm around me in what was once a safe port, seeking guidance from a father who is no longer responding to my cries.
 
