@@ -15,7 +15,7 @@ As born to rule the storm;*</font>
 
 The boy died. 
 
-I'll give away the ending now. He called to his father several times, asking permission to leave his post and join in the fight, but his father never responded because he had already been killed. 
+I'll give away the ending now. He called to his father several times, asking permission to leave his post and join the fight, but his father never responded because he had already been killed. 
 
 I haven't yet learned how to write a lifetime of love and a season of agony into a few brief sentences. I've been trying for some time to tell the story I need to tell, but I've learned that there's too much emotion, too many memories, not enough time or clarity and an ache too deep to yet define. It may become the story I spend the rest of my life writing in the pieces as they come to me.
 

@@ -90,13 +90,13 @@ In all of my pain and confusion, I latched onto a glinting nonpareil. A ghost wh
 
 He haunts me, my ghost. He is with me every moment, and I have spent all these months willing him back to this life, back to the living. I will him to me, in the flesh, as a man I could love, as a man I would love if only he were here. It’s all I can do to stay sane, to move forward each day, to survive this painful prison. I do have a love for my ghost. I love him dearly, and he knows it. He’s the only man in my life, in all my tales and heartbreaks, who has treated me the way I deserve to be treated. An astonishing feat for a man who is not even here.
 
-"Did you hear the voices talking in the background on that *Ave Maria* video I made?"
+"Did you hear the voices talking in the background on that *Ave Maria*?"
 
 *I did. Thought maybe it was just me.*
 
-"No. We both heard them. I was sitting alone in the living room at the piano. There were no tvs or radios or computers on. Interesting, isn’t it?"
+"No. We both heard them. I was sitting alone in the living room playing the piano. There were no tvs or radios or computers on. Interesting, isn’t it?"
 
-*Weird.*
+*Hm.*
 
 "I’ve listened to it a dozen times trying to figure out what it is."
 
@@ -127,7 +127,7 @@ You know we will.
 
 <span style="color:#97d700">pi duplicities</span>
 
-He smoked the last cigarette then fled to LA to detox. "Just for a few days," he said as he kissed my cheek at the airport. His stubble was a couple days out, coarse. A brief touch that was visceral. Lingering.
+He smoked the last cigarette then fled to LA to detox. "Just for a few days," he said as he kissed my cheek at the airport. His stubble was a couple days out, coarse. A brief touch that was visceral and lingering.
 
 I drove back to his place, alone, where the cats greeted me with their sad cries. I shouldn't have bought him that pack of American Spirit.
 
@@ -149,7 +149,7 @@ But the thing of it was, as we were exiting the plane, she stood up there and ac
 
 "Did you like the movie?" He asked me as the credits started.
 
-"Yeah. I did. I didn't think I would, but I did." How did I not watch it 20 years ago when it was huge?
+"Yeah. I did. I didn't think I would, but I did." How did I not watch it years ago when it was huge?
 
 "Yeah, it's a pretty good movie." He was in the kitchen, cooking. He loves to cook. I was sitting on the sofa, wondering what movie to start next. "The director is a douche though."
 
