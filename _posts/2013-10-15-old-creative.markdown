@@ -20,6 +20,12 @@ He kept talking but I wasn't hearing him anymore. I was hearing what he had alre
 
 <hr>
 
+<span style="color:#97d700">lull</span>
+
+These late nights and early mornings and muddled afternoons and heart-pounding fear and unthinkable sadness and late nights.
+
+<hr>
+
 <span style="color:#97d700">loving you in a-minor</span>
 
 "This is the most I've corresponded in a very long time," he said to her.
