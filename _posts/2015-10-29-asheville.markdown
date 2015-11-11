@@ -21,7 +21,7 @@ I could easily be that young boy — aware of the destruction around me and eage
 
 Like him, I stand at my post and watch the storm around me in what was once a safe port. The temptation is there to stand still and wait for a sign, but I already know what I should do. 
 
-2015 has been a beast of a year filled with death and unwanted change in a storm that has ravaged my family the safety we thought we had in our future. But with grace I go forward because I *was* born for this. The light that breaks through the storm is always the sweetest reminder of calm to come.
+2015 has been a beast of a year filled with death and unwanted change in a storm that has ravaged my family and the safety we thought we had in our future. But with grace I go forward because I *was* born for this. The light that breaks through the storm is always the sweetest reminder of calm to come.
 
 I have that light in ambition, progress and love, none of which are static or obedient.
 
