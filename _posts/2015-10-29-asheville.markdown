@@ -17,11 +17,11 @@ The boy called to his father several times, asking permission to leave his post 
 
 I haven't yet learned how to write a lifetime of love and a season of agony into a few brief sentences. I've been trying for some time to tell the story I need to tell, but I've learned that there's too much emotion, too many memories, not enough time or clarity and an ache too deep to yet define. It may become the story I spend the rest of my life writing in the pieces as they come to me.
 
-I could easily be that young boy — aware of the destruction around me and eager to push back if only someone would give me permission, to validate what I know is the right course of action. Danger isn't in the circumstances but in failing to do anything out of obedience or fear. While waiting for permission that would never come, the boy died. 
+I could easily be that young boy — aware of the destruction around me and eager to push back if only someone would give me permission, to validate what I know is the right course of action. The danger isn't in the circumstances but in failing to do anything out of obedience or fear. While waiting for permission that would never come, the boy died. 
 
-Like that boy, I stand at my post and watch the storm around me in what was once a safe port. The temptation is there to stand still and wait for a sign, but I already know what I must do. 
+Like him, I stand at my post and watch the storm around me in what was once a safe port. The temptation is there to stand still and wait for a sign, but I already know what I should do. 
 
-2015 has been a beast of a year filled with death and unwanted change in a storm so fierce it ravaged my family and the safety we thought we had in our future. But with grace I go forward, alone if I must, because I *was* born for this. The light that breaks through the storm is always the sweetest reminder of calm to come.
+2015 has been a beast of a year filled with death and unwanted change in a storm that has ravaged my family the safety we thought we had in our future. But with grace I go forward because I *was* born for this. The light that breaks through the storm is always the sweetest reminder of calm to come.
 
 I have that light in ambition, progress and love, none of which are static or obedient.
 
